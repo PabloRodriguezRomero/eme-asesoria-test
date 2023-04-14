@@ -1,3 +1,5 @@
+// The /js/config.js file contains settings for the user pool ID, app client ID and Region. Update this file with the settings from the user pool and app you created in the previous steps
+
 window._config = {
     cognito: {
         userPoolId: 'eu-west-1_y6Ospclt8', // e.g. us-east-2_uXboG5pAb
